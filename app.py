@@ -14,7 +14,7 @@ import tmdbsimple as tmdb
 from PIL import Image
 import io
 
-tmdb.API_KEY = "5244e338c09452db15cc23f333620647"
+tmdb.API_KEY = "your-api-key"
 
 def truncate_text(text, max_length=30):
     return text[:max_length] + '...' if len(text) > max_length else text
