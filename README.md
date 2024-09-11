@@ -1,0 +1,2 @@
+# AI Movie Recommendation System
+ An advanced, interactive movie recommendation system that leverages collaborative filtering and neural networks to provide personalized movie suggestions. Built with Python, TensorFlow, and Streamlit, this system offers explainable AI features, allowing users to understand the reasoning behind each recommendation. The project utilizes the MovieLens 100K dataset and includes both a user-friendly web interface and a command-line tool for model training and evaluation. 
